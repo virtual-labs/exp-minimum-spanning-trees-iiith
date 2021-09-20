@@ -7,9 +7,9 @@
       "unit-type": "aim"
     },
     {
-      "target": "objectives.html",
-      "source": "objectives.md",
-      "label": "Objectives",
+      "target": "objective.html",
+      "source": "objective.md",
+      "label": "Objective",
       "unit-type": "task",
       "content-type": "text"
     },
